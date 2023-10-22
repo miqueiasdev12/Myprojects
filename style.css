@@ -1,0 +1,51 @@
+body{
+    background-color: black;
+}
+#Camila{
+         border: 2px solid white ;
+}
+.imagens{
+    display: block;
+    width: 203px;
+
+}
+#elizeu{
+    width: 203px;
+    margin-top: 7px;
+    border: 2px solid white;
+}
+#trovao{
+    width: 205px;
+    margin-top: 7px;
+    border: 2px solid white;
+}
+#luciano{
+    width: 205px;
+    margin-top: 7px;
+    border: 2px solid white;
+}
+#camilaa{
+    color: white;
+    position: relative;
+    bottom: 780px;
+    left: 300px;
+}
+#elizeuu{
+    color: white;
+    position: relative;
+    bottom: 600px;
+    left: 300px;
+}
+#trovaoo{
+    color: white;
+    position: relative;
+    bottom: 450px;
+    left: 300px ;
+
+}
+#subira{
+         color: white;
+         position: relative;
+         bottom: 290px;
+         left: 300px;
+}
