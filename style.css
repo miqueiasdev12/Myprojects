@@ -1,13 +1,14 @@
 body{
     background-color: black;
+    margin-top: 200px;
 }
-#Camila{
+#camila{
          border: 2px solid white ;
+         margin-bottom: 14px;
 }
 .imagens{
     display: block;
     width: 203px;
-
 }
 #elizeu{
     width: 203px;
@@ -40,12 +41,36 @@ body{
     color: white;
     position: relative;
     bottom: 450px;
-    left: 300px ;
-
+    left: 300px;
 }
 #subira{
          color: white;
          position: relative;
          bottom: 290px;
          left: 300px;
+}
+#camila:hover {
+    transform: scale(1.2);
+}    
+#camila{
+    transition: transform 0.4s ease;
+}
+#elizeu:hover{
+    transform: scale(1.2);
+}
+#elizeu{
+    transition: transform 0.4s ease;
+}
+#trovao{
+    transition: transform 0.4s ease;
+}
+#trovao:hover{
+    transform: scale(1.2);
+}
+#luciano{
+    transition: transfom 0.4s ease;
+
+}
+#luciano:hover{
+    transform: scale(1.2);
 }
